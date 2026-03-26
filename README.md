@@ -11,10 +11,13 @@ To support modern UI development, individual assets are provided in the `/assets
 - **Light Mode:** Optimized for high-contrast on pure white backgrounds.
 - **Dark Mode:** Optimized for platinum-on-navy digital interfaces.
 
-##  Color Palette & Emotions
-- **Deep Navy (#1B263B):** Triggers feelings of **Trust, Authority, and Stability**. It reassures patients they are in professional hands.
-- **Champagne Gold (#E0E1DD):** Triggers feelings of **Excellence and The Gold Standard**. It conveys the "VIP" premium experience.
-- **Platinum White (#FFFFFF):** Triggers feelings of **Clarity, Hygiene, and Transparency**.
+## 🎨 Color Palette & Emotional Triggers
+
+| Color | Hex Code | Emotional Trigger & Logic |
+| :--- | :--- | :--- |
+| **Deep Navy** | `#1B263B` | **Trust & Authority:** Evokes professional depth, stability, and the high-end "VIP" feel. It replaces harsh black to provide a more "mending" and calm presence. |
+| **Champagne Gold** | `#E0E1DD` | **Excellence & Optimism:** Triggers the feeling of "The Gold Standard." It conveys premium quality and hope without the anxiety of bright, aggressive colors. |
+| **Platinum Mist** | `#FFFFFF` | **Clarity & Hygiene:** Used for backgrounds and text in Dark Mode to ensure maximum readability, transparency, and mental space for the patient. |
 
 ##  Design Philosophy
 - **The "I" Factor:** We merged the medical stave directly into the letter **'I'**. This signifies that the **Individual** is our central priority.
